@@ -46,7 +46,9 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection/>
+            <selection>
+                <sel id="38"/>
+            </selection>
         </object>
         <object class="WED_KeyObjects" id="3" parent_id="1">
             <sources/>
@@ -783,7 +785,7 @@
                 <child id="45"/>
             </children>
             <hierarchy hidden="0" locked="1" name="PHJR-Bing-ScratchWarped.jpg"/>
-            <overlay_image alpha="1.0" file_path="../../../Development/X-Plane/PHJR/PHJR-Bing-ScratchWarped.jpg"/>
+            <overlay_image alpha="1.0" file_path="Source/PHJR-Bing-ScratchWarped.jpg"/>
         </object>
         <object class="WED_AirportNode" id="1588" parent_id="1583">
             <sources/>
@@ -10655,15 +10657,15 @@
         </pref>
         <pref name="doc/export_target" value="2"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="-158.060822"/>
-        <pref name="map/north" value="21.317866"/>
+        <pref name="map/east" value="-158.060070"/>
+        <pref name="map/north" value="21.318514"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.300183"/>
+        <pref name="map/south" value="21.299535"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-158.081340"/>
+        <pref name="map/west" value="-158.082092"/>
         <pref name="map/world_map_vis" value="0"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -10735,10 +10737,10 @@
         <pref name="window/height" value="1156"/>
         <pref name="window/main_split" value="0"/>
         <pref name="window/main_split2" value="1305"/>
-        <pref name="window/prev_split" value="584"/>
-        <pref name="window/prop_split" value="515"/>
+        <pref name="window/prev_split" value="594"/>
+        <pref name="window/prop_split" value="525"/>
         <pref name="window/width" value="1626"/>
-        <pref name="window/x_loc" value="4"/>
+        <pref name="window/x_loc" value="-317"/>
         <pref name="window/y_loc" value="44"/>
     </prefs>
 </doc>
